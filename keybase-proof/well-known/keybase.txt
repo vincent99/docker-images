@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/rancher
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rancher.com
+  * I am rancher (https://keybase.io/rancher) on keybase.
+  * I have a public key with fingerprint 6ECB 4922 01B6 267E 769E  00B3 1375 50C2 2320 5F53
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01207d08625ab62748f2699d506da5e32ff4e2147334ff3eaed647c80f4b2840277e0a",
+            "fingerprint": "6ecb492201b6267e769e00b3137550c223205f53",
+            "host": "keybase.io",
+            "key_id": "137550c223205f53",
+            "kid": "0101780bb862682086970b5944deee85c9a44da737120979bfdf8e4f62352c9baa550a",
+            "uid": "01b937b34ac988003e7eccf9d986f719",
+            "username": "rancher"
+        },
+        "service": {
+            "hostname": "rancher.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1483749801,
+    "expire_in": 157680000,
+    "prev": "d37f93e01ac5db54426d3bf649c96aafb7fec80b0627dfdb53a7ed9bcf55a844",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMNmAnicbVJ9TFVlHOZ6uVe4IZ8OWa3Sw8wCxPP9noMOkWaoQ8IY0wl4OR/vuRzg
+fnjOvRcZYthKElkfC60ZwqBLxmTGxxpRa4MbbdFNkTKi1jQbDoOl48NuDcPe4/SP
+tv563/f3Ps/zPs/7+42uMUfYTEm+wmDqenuRKTRy2hdxwMN312GiW67FsuqwKvhg
+gdUy1L32KlXGsjCcIHEg4xxLMoLIkoDmFJLleZnBWVlgIEUqCg1JggYURSsKBQUo
+szSQOFyhRZKjcRIAiAtYBqaoLgfUPJrq8iJZFkoizZMkTiBRFkDA8hDHRYqgAMPg
+EklSJM4oDIWIFW7dYCBzoqDDTNWNauhgf2Dvf/CPfOME4HBRRM5ZjkQBeICLDE/T
+MoSQYyReQFsBUAAF5AEvKrLCQVphSYohJV4UBKRr+PY9lBN5CogULUg8x+E4BQGU
+JIWXeY5VAMEbQB1qLsEJEVoTXFIF1LD6DAwV/aoEjX81gvwXkCm5nYjp0dxet+Su
+RhcVXq9HzzKI3lqPgayBov2hhl1UXTL6RcTwQ01X3S4si0BIyasaogTNUYDmOZzI
+wOARj6pBu2ogGMAiwzhuvAP9SFKmgMJTECcEiZFFhqZJVqZEhaV5iWcFQRGBAlED
+RRy1W1YQghIAlHlRUhhG4GgaM1IddrmxLIBsCg4kqasOl+D1aRCrD46URkaYbBFW
+yypjuiJs0fGPZm5bSdy96MKNaT2f5g0F2lKOxFTd3KWP+Htd3TPSi1Fb9k7cWd9V
+Yt49Y/7mrczBqw1R/uLh63t6Ohds/e7l51+aGZ9NtXeWFgTPhDOW226XWOfCqVqq
+sjdGtfUlcX1Hhca7cR3RCa+Ms03ZLLuuXZKCTc5KW01++6XjvwrmjQ1adqK1rfWz
+r1v+qurbOrBofVVOYwqmUtjhopXT49bzhZscwofP/pbIJ1Y/bW+tPHssXCaFPJHl
+s9sv5JwDA+G5fHNu3vvC9Fm9tIcY+jNwNPtG4KIj4c6tMjVZtpha4rdfP1H5hCnh
+yc7XTh7+ozH/2mje0G48Pspm2VPU+4WzN3fh5VDTsL54+bG01WWtzMrH2M9zHQ0M
+jFPGmgarXe5jJyfqTuBb5jc4CuzhK1PrSgN3u0OxW5sXknJXdh1Pz3lm/8nsAc+G
+zcVj700XrF37ZWfssGdVx/d/m+UrcavXRP00q49eOmQdK77YuGmm3P/m5fKU85n3
+YG3XTLOlPm8+TE1O5iuxGrUz8t1tcTc9CQf+mWv50Xm/aWCpi18qPhcb/MiZbK/p
+Gd+x9F0glK5fG3zuYHe65ffPleme1thfytorr07Mv7H8Tn9XPPZJoef2hRferhnr
+37dveD+oWvF5Le2TU81PBelTjYU7++Z+ODR44378t5vNgccXX08++EHMDl+O6cyt
+r0Im4l8897Kq
+=/3p4
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rancher
+
+==================================================================
