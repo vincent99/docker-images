@@ -1,5 +1,5 @@
 <?php
-  $file = "/tmp/pageok";
+  $file = "pageok";
   if ( $_POST['break'] ) {
     unlink($file);
     header('Location: /');
